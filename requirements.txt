@@ -1,5 +1,5 @@
 chromadb
-langchain-community langchain-core
+langchain-community
 unstructured
 ctransformers
 streamlit
