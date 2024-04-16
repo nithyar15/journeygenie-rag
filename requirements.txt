@@ -1,9 +1,0 @@
-chromadb
-langchain-community langchain-core
-unstructured
-ctransformers
-streamlit
-llama-cpp-python
-sentence-transformers
-cleantext
-langchain
