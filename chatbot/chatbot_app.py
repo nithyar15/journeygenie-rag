@@ -79,7 +79,7 @@ def main(parameters) -> None:
     Path(model_folder).parent.mkdir(parents=True, exist_ok=True)
 
     client = parameters.client
-    model = parameters.model
+    model = "openchat"
     max_new_tokens = parameters.max_new_tokens
 
     init_page(root_folder)
